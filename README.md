@@ -11,7 +11,7 @@ pip install -r requirements.txt
 Start server:
 
 ```
-$ python manage.py runserver
+$ python app.py
 ```
 
 ### Créditos aos dados disponibilizados
